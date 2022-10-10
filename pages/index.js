@@ -39,22 +39,7 @@ const options = [
   { value: 'tester', label: 'tester' },
   { value: 'schrijver', label: 'schrijver' },
 ]
-  // <option value='klantenservice'>klantenservice</option>
-  //           <option value='design'>design</option>
-  //           <option value='software-ontwikkelaar'>software ontwikkelaar</option>
 
-  //           <option value='front-end'>front end</option>
-
-  //           <option value='back-end'>back end</option>
-  //           <option value='administratie'>administratie</option>
-  //           <option value='engineering'>engineering</option>
-  //           <option value='devops'>devOps</option>
-  //           <option value='personeelszaken'>personeelszaken</option>
-
-  //           <option value='financiën'>financiën</option>
-  //           <option value='marketing'>marketing</option>
-  //           <option value='tester'>tester</option>
-  //           <option value='schrijver'>schrijver</option>
 
   return (
     <>
@@ -79,11 +64,7 @@ const options = [
         <meta charSet='utf-8' />
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
       </Head>
-      {/* <Script
-        asyncmain
-        src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3962404375929226'
-        crossOrigin='anonymous'
-      /> */}
+     
       <div className='mt-20 mx-12  lg:flex items-center justify-center  '>
         <div className=''>
           <div className='xl:mx-36'>
@@ -92,35 +73,7 @@ const options = [
               vandaag nog je droombaan!
             </h1>
           </div>
-          {/* <form>
-            <div className='relative mt-7 lg:mx-64 '>
-              <div className='flex absolute inset-y-0 left-0 items-center pl-3   pointer-events-none'>
-                <svg
-                  aria-hidden='true'
-                  className='w-5 h-5 text-gray-500 dark:text-gray-400'
-                  fill='none'
-                  stroke='currentColor'
-                  viewBox='0 0 24 24'
-                  xmlns='http://www.w3.org/2000/svg'
-                >
-                  <path
-                    strokeLinecap='round'
-                    strokeLinejoin='round'
-                    strokeWidth='2'
-                    d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z'
-                  ></path>
-                </svg>
-              </div> */}
-          {/* <input
-                type='search'
-                id='search'
-                className='block p-4 pl-10 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500'
-                placeholder='Klantenservice, Software Developer'
-                required
-                list='cars'
-                autoComplete='on'
-              />
-              */}
+        
           <div className='flex items-center justify-center'>
             <Select
               className='w-4/6 mt-12 text-center sm:text-2xl'
@@ -135,14 +88,7 @@ const options = [
               // styles={colourStyles}
             />
           </div>
-          {/* <button
-                type='submit'
-                className='text-white absolute right-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'
-              >
-                Search
-              </button> */}
-          {/* </div> */}
-          {/* </form> */}
+         
           <h2 className='mt-7   flex   items-center justify-center text-orange-700'>
             bekijk onze vacatures{' '}
           </h2>
@@ -278,22 +224,3 @@ target='_blank'
  }
 
 
-
-
-//for filter
-// export async function getServerSideProps() {
-//   // const docRef = await doc(db, 'vacatures', 'react')
-//   // const data = await getDoc(docRef)
-// const q = query(collection(db, 'junior-developer'))
-
-// const querySnapshot = await getDocs(q)
-// let todos = []
-// querySnapshot.forEach((doc) => {
-// todos.push(doc.data())
-// })
-//   return {
-//     props: {
-//       data:todos
-//     },
-//   }
-// }
