@@ -21,4 +21,4 @@ Deze hersenuitdaging is perfect voor taalliefhebbers en woordpuzzelfans van alle
 https://www.wordlee.nl/
 
 AI Quote Generator
-https://www.quotesmaker.com/
+https://www.quotesmaker.com/motivational-quote-generator
