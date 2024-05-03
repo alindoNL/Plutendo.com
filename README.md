@@ -19,3 +19,6 @@ Welkom bij de ultieme online bestemming voor Wordle-liefhebbers! Onze website bi
 Deze hersenuitdaging is perfect voor taalliefhebbers en woordpuzzelfans van alle leeftijden. Ontdek de vreugde van het ontcijferen van woorden en test je taalvaardigheden op een leuke en interactieve manier.
 
 https://www.wordlee.nl/
+
+AI Quote Generator
+https://www.quotesmaker.com/
