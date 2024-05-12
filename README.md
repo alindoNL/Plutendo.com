@@ -14,11 +14,8 @@ Het is een gestandaardiseerde manier van schrijven die dient als leidraad voor a
 https://apagenerator.nl/
 
 
-Welkom bij de ultieme online bestemming voor Wordle-liefhebbers! Onze website biedt de spannende kans om het populaire woordspel, Wordle, in het Nederlands te spelen.
-
-Deze hersenuitdaging is perfect voor taalliefhebbers en woordpuzzelfans van alle leeftijden. Ontdek de vreugde van het ontcijferen van woorden en test je taalvaardigheden op een leuke en interactieve manier.
-
-https://www.wordlee.nl/
+FutureAPIS ontdek een lijst met apis die je kunt gebruiken bij je volgende projecten:
+https://www.futureapis.com/
 
 AI Quote Generator
 https://www.quotesmaker.com/motivational-quote-generator
