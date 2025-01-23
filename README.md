@@ -19,3 +19,6 @@ https://www.futureapis.com/
 
 AI Quote Generator
 https://www.quotesmaker.com/motivational-quote-generator
+
+Seo website scan
+https://www.seocheckr.com/seo-checker
